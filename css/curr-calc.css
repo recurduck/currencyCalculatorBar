@@ -1,0 +1,12 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.space-between {
+    justify-content: space-between;
+}
+.convert-bar {
+    padding: 10px;
+    background-color: burlywood;
+}
